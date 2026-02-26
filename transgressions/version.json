@@ -1,0 +1,10 @@
+{
+    "version": "3.0.1",
+    "git": {
+        "branch": "Barcode-Scanning-Test",
+        "latestCommit": "8142f6739a8ba980e5b93c40b582b31ef3f1dd9a",
+        "shortHash": "8142f673",
+        "message": "Remove styling weirdness",
+        "date": "2026-02-26T20:43:28+02:00"
+    }
+}
