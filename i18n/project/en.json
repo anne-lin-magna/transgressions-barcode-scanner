@@ -564,6 +564,6 @@
     "scanLicence": "Scan Licence",
     "cameraError": "There was an issue with the camera. Please ensure you have given permission to access the camera and try again.",
     "cameraPermissionDenied": "Camera access was denied. Please enable camera permission in your browser settings and try again.",
-    "barcodeScanningInstruction": "Keep your device upright and hold for a few seconds to scan — do not tilt it sideways"
+    "barcodeScanningInstruction": "Keep the barcode at the center of the screen and hold still for a few seconds to scan"
   }
 }
