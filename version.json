@@ -1,10 +1,10 @@
 {
     "version": "3.0.1",
     "git": {
-        "branch": "Barcode-Scanning-Test",
-        "latestCommit": "41d972cdc098f6248a430340aeec84e9864850cd",
-        "shortHash": "41d972cd",
-        "message": "Decoding to hex",
-        "date": "2026-03-02T08:38:50+02:00"
+        "branch": "Barcode-Scanning",
+        "latestCommit": "a5ad064699d78764073c8069817d50ab5c9fa915",
+        "shortHash": "a5ad0646",
+        "message": "TFM-5503 use Theme Border color",
+        "date": "2026-03-02T09:55:21+02:00"
     }
 }
