@@ -2,9 +2,9 @@
     "version": "3.0.1",
     "git": {
         "branch": "Barcode-Scanning-Test",
-        "latestCommit": "40a31402f7ef98354d64915ce39f82fa733edc0a",
-        "shortHash": "40a31402",
-        "message": "Scanner improvement",
-        "date": "2026-02-27T10:03:21+02:00"
+        "latestCommit": "41d972cdc098f6248a430340aeec84e9864850cd",
+        "shortHash": "41d972cd",
+        "message": "Decoding to hex",
+        "date": "2026-03-02T08:38:50+02:00"
     }
 }
