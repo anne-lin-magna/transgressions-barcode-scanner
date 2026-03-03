@@ -2,9 +2,9 @@
     "version": "3.0.1",
     "git": {
         "branch": "TFM-5501-Logic-to-parse-and-verify-barcode-information",
-        "latestCommit": "3107499a0d4b62d0321358dbd66d9b5eacb3683d",
-        "shortHash": "3107499a",
-        "message": "Merge branch 'Barcode-Scanning' into TFM-5501-Logic-to-parse-and-verify-barcode-information",
-        "date": "2026-03-03T14:43:23+02:00"
+        "latestCommit": "85bc2bef6dfa56e0d989892e5f8e8e9ee49e7aa2",
+        "shortHash": "85bc2bef",
+        "message": "TFM-5501 Refactoring",
+        "date": "2026-03-03T20:49:46+02:00"
     }
 }
